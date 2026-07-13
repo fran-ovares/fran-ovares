@@ -89,10 +89,10 @@ Actualmente en preparación para la certificación **SAP Certified Associate –
 ### 📫 Contacto
 
 <p align="left">
-  <a href="mailto:tu_correo@ejemplo.com">
+  <a href="mailto:fovares@ditsocr.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/fran-jav-1709/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
